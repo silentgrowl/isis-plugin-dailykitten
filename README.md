@@ -1,4 +1,4 @@
-# Isis plugin: BBC World News
+# Isis plugin: Daily Kitten
 
 This plugin adds a [Daily Kitten](http://www.dailykitten.com) command to the [Isis chatbot](https://github.com/silentgrowl/isis)
 
