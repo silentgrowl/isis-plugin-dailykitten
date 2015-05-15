@@ -7,11 +7,11 @@ Gem::Specification.new do |spec|
   spec.version       = "1.0.0"
   spec.authors       = ["Brendon Rapp"]
   spec.email         = ["brendon@silentgrowl.com"]
+  spec.license       = 'MIT'
 
   spec.summary       = %q{Isis plugin: The Daily Kitten}
   spec.description   = %q{Isis plugin: The Daily Kitten}
   spec.homepage      = "https://github.com/silentgrowl/isis-plugin-dailykitten"
-
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
   spec.bindir        = "exe"

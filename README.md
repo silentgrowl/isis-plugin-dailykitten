@@ -17,3 +17,7 @@ And then execute:
 ## Usage
 
 Post the latest daily kitten into a room by typing ``!dailykitten`` in chat.`
+
+## Links
+
+* [isis-plugin-dailykitten on RubyGems](https://rubygems.org/gems/isis-plugin-dailykitten)
